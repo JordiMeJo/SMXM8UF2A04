@@ -1,2 +1,2 @@
 # SMXM8UF2A04
-aquest es un projecte de prova amb GIT
+aquest es el primer projecte de Jordi Melà
